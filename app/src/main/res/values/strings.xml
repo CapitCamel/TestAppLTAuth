@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAppLT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="the_story_begins">The story begins</string>
+    <string name="discover_an">Discover an amazing way to write and read stories</string>
+</resources>
